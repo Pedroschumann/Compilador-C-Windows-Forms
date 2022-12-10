@@ -1,0 +1,162 @@
+C:\Users\Pedro\source\repos\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\Pedro\source\repos\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\Pedro\source\repos\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\Pedro\source\repos\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\source\repos\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.Compilador.resources
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+C:\Users\Pedro\source\repos\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\Pedro\Desktop\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\Pedro\Desktop\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\Pedro\Desktop\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\Desktop\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.Compilador.resources
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Compilador\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+C:\Users\Estag\Downloads\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\Estag\Downloads\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\Estag\Downloads\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\Estag\Downloads\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\Estag\Downloads\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.Compilador.resources
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.Properties.Resources.resources
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\Estag\Downloads\Compilador\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.Compilador.resources
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.Properties.Resources.resources
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\Estag\Downloads\Compilador (1)\Compilador\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.Compilador.resources
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.Properties.Resources.resources
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.Compilador.resources
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.Properties.Resources.resources
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.Compilador.resources
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.Properties.Resources.resources
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\Estag\Downloads\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.Compilador.resources
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Semantico (1)\Semantico\sintatico_07\Compilador_erros_lexico_&_sintatico2\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.exe
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.deps.json
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.runtimeconfig.json
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\bin\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.Compilador.resources
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.Properties.Resources.resources
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.dll
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\refint\Compilador.dll
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.pdb
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\Compilador.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Compilador Final\Compilador\Compilador\obj\Debug\net6.0-windows\ref\Compilador.dll

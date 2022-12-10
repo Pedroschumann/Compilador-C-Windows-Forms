@@ -1,0 +1,5 @@
+C:\Users\Pedro\Desktop\Compilador\Compilador.exe
+C:\Users\Pedro\Desktop\Compilador\Compilador.dll
+C:\Users\Pedro\Desktop\Compilador\Compilador.deps.json
+C:\Users\Pedro\Desktop\Compilador\Compilador.runtimeconfig.json
+C:\Users\Pedro\Desktop\Compilador\Compilador.pdb
